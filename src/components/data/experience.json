@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "role": "Associate Consultant",
+    "organisation": "Wipro",
+    "startDate": "June, 2019 -",
+    "endDate": "Present",
+    "location": "Kolkata",
+    "experiences": [
+      "Worked on more than 15 dashboards",
+      "Implemented functional components on React"
+    ],
+    "imageSrc": "company/wipro.webp"
+  }
+  
+]
