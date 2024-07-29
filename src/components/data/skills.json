@@ -1,22 +1,22 @@
 [
   {
     "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "skills/html.avif"
   },
   {
     "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "skills/css.avif"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
+    "imageSrc": "skills/javascript.avif"
   },
   {
     "title": "React",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "skills/react.avif"
   },
   {
     "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills/figma.avif"
   }
 ]

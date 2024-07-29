@@ -3,7 +3,7 @@
   {
     "key": 1,
     "title": "stickyNotes",
-    "imageSrc": "projects/stickyNotes.jpg",
+    "imageSrc": "projects/stickyNotes.avif",
     "description": "This is a Notes app where you can keep your activities listed and save and delete as per usage",
     "demo": "https://shoubhik2smart.github.io/stickyNotes",
     "source": "https://github.com/shoubhik2smart/stickyNotes.git"
@@ -12,7 +12,7 @@
   {
     "key": 2,
     "title": "Gola",
-    "imageSrc": "projects/BubbleGame.jpg",
+    "imageSrc": "projects/BubbleGame.avif",
     "description": "This is a bubble Game project made with complete Vanilla Javascript",
     "demo": "https://shoubhik2smart.github.io/Gola",
     "source": "https://github.com/shoubhik2smart/Gola.git"
@@ -20,7 +20,7 @@
   {
     "key": 3,
     "title": "myTodo",
-    "imageSrc": "projects/Todo.png",
+    "imageSrc": "projects/Todo.avif",
     "description": "This project is a Todo List made with complete Vanilla Javascript",
     "demo": "https://shoubhik2smart.github.io/myTodo",
     "source": "https://github.com/shoubhik2smart/myTodo.git"
@@ -29,7 +29,7 @@
   {
     "key": 4,
     "title": "calculatorMine",
-    "imageSrc": "projects/Calculator.png",
+    "imageSrc": "projects/Calculator.avif",
     "description": "This project is made with complete Vanilla Javascript that has all the functionalities of a Calculator",
     "demo": "https://shoubhik2smart.github.io/calculatorMine",
     "source": "https://github.com/shoubhik2smart/calculatorMine.git"
